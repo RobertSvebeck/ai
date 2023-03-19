@@ -1,0 +1,32 @@
+person 1: how are you doing today?
+person 2: I am not doing to well.
+person 1: oh, tell me about it.
+person 2: last night I had chest pain. It woke me up and I couldn't go back to sleep.
+person 1: what time did it wake you up?
+person 2: It was around 2 in the morning.
+person 1: do you still have the pain?
+person 2: no, it went away after about 40 minutes.
+person 1: describe the pain?
+person 2: if felt like someone was stabbing me on the left side of my chest.
+person 1: did you have any other symptoms at that time?
+person 2: I felt a little sick to my stomach. And my left arm hurt a little.
+person 1: have you ever had this before?
+person 2: once when I was running in a 5k
+person 1: how long ago was that?
+person 2: it was about 6 months ago. I ran in the Turkey Trot.
+person 1: have you ever been told you have heart problems?
+person 2: no. Are you saying I have heart problems?
+person 1: no. We need to get more data before we could say anything like that. Do you have any medical problems?
+person 2: I take high blood pressure medication.
+person 1: which kind?
+person 2: I think it is called hydro something.
+person 1: hydrochlorothiazide.
+person 2: that's it. And I take a cholesterol medication ... zocor.
+person 1: anything else?
+person 2: I had a hernia repair when I was playing college sports about 25 years ago.
+person 1: are allergic to any medications?
+person 2: not that I know of.
+person 1: do you smoke?
+person 2: never.
+person 1: what about drink alcohol?
+person 2: I'll have a few beers when I'm watching the Cowboys.
